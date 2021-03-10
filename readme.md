@@ -9,7 +9,8 @@ Step 3: Add the members of your group to the project
 Step 1: Once you're added to the repo, you're going to clone it
 Step 2: Create your branch
 
-# Git workflow
+
+# Git workflow 
 1: Work on your own branch
 2: Once you're done working on your feature, push your branch
 3: Make a pull request, ping the scrum master that you made one
